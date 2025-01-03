@@ -15,7 +15,7 @@
     <div class="row m-5">
       <div class="col-md-4">
         <img
-          src="../assets/kepsek.png"
+          src="../assets/kepsek.PNG"
           alt="img-kepsek"
           class="img-kepsek"
         />
@@ -85,7 +85,7 @@
         <div class="col-md-6">
           <div class="card">
             <img
-              src="../assets/upacara.jpeg"
+              src="../assets/upacara.PNG"
               class="card-img-top"
               alt="..."
             />
@@ -113,7 +113,7 @@
         <div class="col-md-6">
           <div class="card">
             <img
-              src="../assets/zona.jpeg"
+              src="../assets/zona.PNG"
               class="card-img-top"
               alt="..."
             />
@@ -126,7 +126,7 @@
         <div class="col-md-6">
           <div class="card">
             <img
-              src="../assets/slr.jpeg"
+              src="../assets/slr.PNG"
               class="card-img-top"
               alt="..."
             />

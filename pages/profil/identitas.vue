@@ -157,7 +157,7 @@ h2 {
 }
 
 .cover {
-  background-image: url('~/assets/img-guru.png');
+  background-image: url('~/assets/img-guru.PNG');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
